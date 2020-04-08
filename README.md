@@ -1,20 +1,45 @@
 # Lab-08-SQL
 
-Number and name of feature: ________________________________
+Number and name of feature: 1. Database:
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 5 hours
 
-Start time: _____
+Start time: 3:00
 
-Finish time: _____
+Finish time: 7:00
 
-Actual time needed to complete: _____
+Actual time needed to complete: 4 hours
+
+
+
+Number and name of feature: 2. Server:
+
+Estimate of time needed to complete: 4 hours
+
+Start time: 8:00
+
+Finish time: 12:00
+
+Actual time needed to complete: 4 hours
+
+
+
+Number and name of feature:3. Deploy: 
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 12:00
+
+Finish time: 2:00
+
+Actual time needed to complete: 2 hours
+
 
 
 
 # Project Name
 
-**Author**: Your Name Goes Here
+**Author**: Ahmad mamdouh
 **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
 
 ## Overview
